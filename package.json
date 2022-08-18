@@ -1,0 +1,25 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon -e js,ejs,css,html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YRIY1304/git_toDo_review.git"
+  },
+  "author": "Shutencko Y.S.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YRIY1304/git_toDo_review/issues"
+  },
+  "homepage": "https://github.com/YRIY1304/git_toDo_review#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
